@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <limits.h>
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 void print_and_check(int r_orig, int r_mine, int *passed, int *total)
 {
