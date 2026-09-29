@@ -10,7 +10,7 @@ A testing tool for the 42 ft_printf project. It compares the printed output and 
 
 ## Usage
 
-1. Place main.c inside your project directory.
+1. Place printftest.c inside your project directory.
 2. Build your static library:
    make
 
